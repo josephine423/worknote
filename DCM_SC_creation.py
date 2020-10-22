@@ -10,9 +10,6 @@ from pandas import ExcelWriter
 from pandas import ExcelFile
 import xlsxwriter
 
-
-
-
 path_old = r'C:\Users\nxf46768\Desktop\DCM_UAT\DCM1.0' # use your path
 path_new = r'C:\Users\nxf46768\Desktop\DCM_UAT\DCM1.1' # use your path
 
